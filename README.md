@@ -8,9 +8,3 @@ Home Credit is an international consumer finance provider focusing on responsibl
 1. Identify characteristics of potential clients who may have/not have payment difficulties.
 2. Forecast clients' ability to meet repayment obligations.
 3. Suggest business recommendation based on the findings.
-
-### Business Insights
-
-### Machine Learning Model
-
-### Conclusions
